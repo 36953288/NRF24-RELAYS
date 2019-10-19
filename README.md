@@ -2,6 +2,10 @@
 1. 涉及到强电及RF电路，环境不同，DIY水平不一，无法保证100%成功，有问题不接受任何除技术交流之外的质疑!
 2. 文件仅供个人交流学习使用，禁止商业行为！
 
+
+![](https://github.com/huexpub/NRF24-RELAYS/blob/master/3relay/Top.jpg?raw=true)
+
+
 # nrf24-relays
 NRF24-RELAYS 支持中继的2.4G无线开关改装模块，支持LED输出，LED有渐变效果，未来会增加WS2812代码输出。支持多变效果。完美改装罗朗格等自恢复LED面板
 
